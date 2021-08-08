@@ -1,0 +1,2 @@
+model_checkpoint_path: "target_ddqn"
+all_model_checkpoint_paths: "target_ddqn"
